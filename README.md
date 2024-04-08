@@ -4,8 +4,8 @@
 
 ## 🛠 Especializaciones
 
-- **Front-end:** Vue.js, Angular
-- **Back-end:** PHP
+- **Front-end:** JavaScript, JQuery, Typescript, Vue.js, Angular.
+- **Back-end:** PHP, Laravel, Node, Nest
 
 ## 📈 Proyectos
 
@@ -13,5 +13,5 @@ Interesado en proyectos que requieren soluciones tanto funcionales como técnica
 
 ## 📫 Contacto
 
-Interesado en colaborar o tienes un proyecto en mente? No dudes en contactarme aquí en **GitHub**.
+Interesado en colaborar o tienes un proyecto en mente? No dudes en contactarme aquí en **arielbernardo@hotmail.com**.
 
