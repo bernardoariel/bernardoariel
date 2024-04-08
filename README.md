@@ -1,6 +1,6 @@
 # 👨‍💻 Sobre mí
 
-**Desarrollo de software:** Analista Funcional en **Electro3** y Desarrollador Full Stack Freelance. Especializado en **Vue.js, Angular** y **PHP**. Transformo necesidades en soluciones tecnológicas efectivas.
+**Desarrollo de software:** Analista Funcional en **Electro3** y Developer Full Stack Freelance. Especializado en **Vue.js, Angular** y **PHP**. Transformo necesidades en soluciones tecnológicas efectivas.
 
 ## 🛠 Especializaciones
 
